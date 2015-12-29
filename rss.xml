@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[eyeBot]]></title>
-        <description><![CDATA[eyeBot]]></description>
+        <title><![CDATA[eyeBot, LLC]]></title>
+        <description><![CDATA[eyeBot, LLC]]></description>
         <link>https://thegrid.ai/eyebot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Dec 2015 15:38:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 15:30:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/eyebot/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What?]]></title>
+            <description><![CDATA[<article><h1>What?</h1><p>eyeBot, LLC is an angel-invested startup that is building technology-based solutions for the visually impaired, or VI, users. For starters, we are focused on enabling VI users to remotely explore an area of choice (e.g., Denver Downtown, airports), and navigate via accessibility-enabled walking directions. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d620066bcab4432d64b07cd591064e458d731ec0.png"></article>]]></description>
+            <link>https://thegrid.ai/eyebot/what/index.html</link>
+            <guid isPermaLink="false">d0728a70-bcc4-492a-b217-a908056694f5</guid>
+            <pubDate>Tue, 29 Dec 2015 15:30:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Team]]></title>
             <description><![CDATA[<article><h1>Team</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3452627a9ebf130feb561cb43ad39b34ccba98f.jpg"></article>]]></description>
             <link>https://thegrid.ai/eyebot/team/index.html</link>
             <guid isPermaLink="false">4be4788c-a70b-4f81-a753-8cebc08a3fca</guid>
             <pubDate>Mon, 28 Dec 2015 15:38:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What?]]></title>
-            <description><![CDATA[<article><h1>What?</h1><p>eyeBot, LLC is an angel-invested startup that is building technology-based solutions for the visually impaired, or VI, users. For starters, we are focused on enabling VI users to remotely explore an area of choice (e.g., Denver Downtown, airports), and navigate via accessibility-enabled walking directions. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d620066bcab4432d64b07cd591064e458d731ec0.png"></article>]]></description>
-            <link>https://thegrid.ai/eyebot/what/index.html</link>
-            <guid isPermaLink="false">d0728a70-bcc4-492a-b217-a908056694f5</guid>
-            <pubDate>Mon, 28 Dec 2015 15:31:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
