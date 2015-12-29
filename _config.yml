@@ -1,7 +1,7 @@
 name: eyeBot
 favicon: null
-layout_spectrum: 0.05632103746756911
-typography_spectrum: 0.14168602880090475
+layout_spectrum: 0.13837
+typography_spectrum: 0.63913
 title: 'eyeBot, LLC'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.8951723873615265
+  brandStrength: 0.5
   lightness: 0.5196250583976507
-  saturation: 0.3170628626830876
-  rhythmicContrast: 0.825722413836047
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
